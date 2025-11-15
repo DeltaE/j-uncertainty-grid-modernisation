@@ -12,7 +12,6 @@ workflow
 outputs
 examples
 troubleshooting
-api
 glossary
 ```
 

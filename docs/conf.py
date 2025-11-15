@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
-project = "DSS XLRM"
-author = "Your Name"
-copyright = ""
+project = "DSS DMDI"
+author = "Luis Victor Gallardo"
+copyright = "2025, Luis Víctor Gallardo (Delta-E+, SEE, SFU)"
 
 # -- General configuration ---------------------------------------------------
 extensions = [
