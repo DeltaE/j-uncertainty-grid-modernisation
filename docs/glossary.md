@@ -1,4 +1,4 @@
-# 8. Glossary
+# 7. Glossary
 
 - **DMDU:** Decision Making Under Deep Uncertainty.
 - **XLRM:** Framework elements — **X**(uncertainties), **L**(levers), **R**(relationships/models), **M**(metrics).

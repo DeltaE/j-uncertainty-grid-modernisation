@@ -1,4 +1,4 @@
-# DSS XLRM
+# DSS-DMDU
 
 > **Distribution System Simulation under Deep Uncertainty**  
 > A research framework for distribution system planning with heat pumps, EVs, PV, and storage.
